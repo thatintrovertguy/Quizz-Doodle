@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Left page -->
+  <path d="M2 5 Q2 3 4 3 L15 3 L15 27 Q9 25 2 27 Z" fill="#FFFCF4" stroke="#252820" stroke-width="1.5"/>
+  <!-- Right page -->
+  <path d="M17 3 L28 3 Q30 3 30 5 L30 27 Q23 25 17 27 Z" fill="#FFFCF4" stroke="#252820" stroke-width="1.5"/>
+  <!-- Spine -->
+  <line x1="16" y1="3" x2="16" y2="27" stroke="#252820" stroke-width="1.5"/>
+  <!-- Yellow bottom strip -->
+  <rect x="2" y="25" width="28" height="4" rx="1" fill="#F4D66D" stroke="#252820" stroke-width="1"/>
+  <!-- Lines left page -->
+  <line x1="5" y1="10" x2="13" y2="10" stroke="#D9D0BE" stroke-width="1"/>
+  <line x1="5" y1="14" x2="13" y2="14" stroke="#D9D0BE" stroke-width="1"/>
+  <line x1="5" y1="18" x2="11" y2="18" stroke="#D9D0BE" stroke-width="1"/>
+  <!-- Star on right page -->
+  <text x="18" y="18" font-size="10" fill="#F4D66D">✦</text>
+</svg>
